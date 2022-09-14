@@ -2,6 +2,8 @@
 
 ### 2022
 
+-[JCESEB2022_beamer](https://github.com/AlexOlza/ConferenceSlides/blob/main/JCESEB2022_beamer.pdf): Development and validation of prognostic models for hospitalization in the Basque Country: Analyzing the variability of non-deterministic algorithms
+
 - [SEE2022_Sesgo_genero](https://github.com/AlexOlza/ConferenceSlides/blob/main/SEE2022_Sesgo_genero.pdf): Gender bias in the performance of predictive models for the probability of hospitalization in the Basque Country - *Sesgo de género en los modelos predictivos para la probabilidad de ingreso hospitalario entre hombres y mujeres del País Vasco*
 
 - [SEE2022_Factores_riesgo_genero](https://github.com/AlexOlza/ConferenceSlides/blob/main/SEE2022_Factores_riesgo_genero.pdf): Gender differences in the risk factors for unplanned hospitalization in the population of the Basque Country - *Diferencias de género en los factores de riesgo de ingreso hospitalario en la población del País Vasco*
